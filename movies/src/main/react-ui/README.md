@@ -79,3 +79,14 @@ here: [https://facebook.github.io/create-react-app/docs/deployment](https://face
 
 This section has moved
 here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+initial react project
+0/ npx create-react-app <name-app>
+1/ npm install axios
+2/ npm install bootstrap
+3/ npm i react-bootstrap
+4/ npm i @fortawesome/react-fontawesome
+5/ npm i @fortawesome/free-solid-svg-icons
+6/ npm i react-player
+7/ npm i react-router-dom
+8/ npm install @mui/material @emotion/react @emotion/styled
+9/ npm install react-material-ui-carousel
